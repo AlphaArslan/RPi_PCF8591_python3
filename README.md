@@ -1,5 +1,5 @@
 # RPi_PCF8591_python3_FSR
-Read analog values with help of PCF8591 module, I2C protocol and python script
+Read analog values with help of PCF8591 module, I2C protocol and python script.
 Here we put it into action using simple FSR sensor
 
 # Pin Connection
