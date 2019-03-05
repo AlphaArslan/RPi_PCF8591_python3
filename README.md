@@ -13,3 +13,6 @@ Read analog values with help of PCF8591 module, I2C protocol and python script
 
 # prerequisites
 	sudo pip3 install smbus2
+
+# Run Script
+	sudo python3 ReadAnalog.py
